@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "express": "^5.3.0",
-    "node.js": "^0.0.1-security"
+    "node.js": "^0.0.1-security",
+    "pg": "^8.23.1"
   }
 }
